@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029855836812",
+    "firebase_url": "https://brigadaapp-5b1fd.firebaseio.com",
+    "project_id": "brigadaapp-5b1fd",
+    "storage_bucket": "brigadaapp-5b1fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029855836812:android:6227401639adf7888f19a9",
+        "android_client_info": {
+          "package_name": "com.appcon2020.brigada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029855836812-vba2ot19kk4jc2gkv5187tn1lsejdt7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appcon2020.brigada",
+            "certificate_hash": "01b5245f6956ee621a9e09f631560386b07c5d7e"
+          }
+        },
+        {
+          "client_id": "1029855836812-5j2e87al8p1ecl21nqgi9tsvi1nqdkbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68XYp6P03B_DRSJaChJSaIpYPKt0K_kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029855836812-5j2e87al8p1ecl21nqgi9tsvi1nqdkbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
